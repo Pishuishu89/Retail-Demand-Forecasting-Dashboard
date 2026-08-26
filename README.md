@@ -308,36 +308,6 @@ CSV Files
 
 ---
 
-## 🤝 Contributing
-
-To suggest improvements or report issues:
-1. Document the desired change or bug with context
-2. Share via issue tracker or pull request
-3. Include screenshots if UI-related
-
----
-
-## 📞 Support & Questions
-
-- **Model Question**: Reach out to data science team for LightGBM tuning details
-- **Dashboard Issue**: Check data refresh status; ensure CSVs are current
-- **Performance**: For large dataset loads, consider Power BI Premium or cloud model deployment
-
----
-
-
----
-
-## 🏆 Acknowledgments
-
-Built as a demonstration of:
-- LightGBM demand forecasting capabilities
-- Power BI reporting best practices (star schema, DAX, visual design)
-- Forecast accuracy evaluation using WMAPE and bias metrics
-- Multi-audience dashboard design (executives, planners, analysts)
-
----
-
 **Last Updated**: August 2026  
 **Dashboard Version**: 1.0  
 **Data Coverage**: 26 June 2011 – 22 May 2016
