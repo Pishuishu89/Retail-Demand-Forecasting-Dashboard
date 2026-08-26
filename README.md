@@ -2,7 +2,10 @@
 
 **A Power BI interactive dashboard demonstrating LightGBM demand forecasting model performance against baseline methods.**
 
-![Status](https://img.shields.io/badge/status-production-brightgreen) ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow) ![Data](https://img.shields.io/badge/data-star%20schema-blue)
+<img width="1294" height="727" alt="image" src="https://github.com/user-attachments/assets/79b876e9-05a7-49a1-a3c0-b99b54903e5f" />
+<img width="1290" height="725" alt="image" src="https://github.com/user-attachments/assets/8fc31b67-62b4-4171-bfe1-fcd2244ec87b" />
+<img width="1296" height="726" alt="image" src="https://github.com/user-attachments/assets/956d3698-d883-4b48-ba60-011dbf0970b5" />
+
 
 ---
 
@@ -322,9 +325,6 @@ To suggest improvements or report issues:
 
 ---
 
-## 📄 License
-
-[Insert your license here, e.g., MIT, Apache 2.0, Internal Use Only]
 
 ---
 
